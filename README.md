@@ -23,6 +23,7 @@ This study introduces a hybrid **EEG-EMG BCI system** for robotic navigation.
 ## 💡 Motivation
 
 We aim to implement this concept on a **wheelchair** for individuals with **paralysis below the head**, helping to restore their **independence and mobility**.
+![Motivation](images/Screenshot 2025-05-13 195029.png)
 
 ---
 
